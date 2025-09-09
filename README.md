@@ -1,6 +1,6 @@
 # 🚀 Developer Portfolio
 
-![Header](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VlfHx8fHx8fHwxNjk0NjU3NTc5&ixlib=rb-4.0.3&q=80&w=1080)
+![Developer Banner](https://images.unsplash.com/photo-1581091012184-4f36d6c7c83f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VlfHx8fHx8fHwxNjk0NzA4NTQ4&ixlib=rb-4.0.3&q=80&w=1080)
 
 ---
 
@@ -15,7 +15,6 @@
 ### Frameworks & Libraries
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" title="Express"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS"/></code>
 
@@ -36,16 +35,16 @@
 ---
 
 ## 📫 Connect with Me
-<a href="https://github.com/your-username"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/></a>
-<a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/></a>
-<a href="https://twitter.com/your-twitter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40" title="Twitter"/></a>
+<a href="https://www.instagram.com/yaleem62/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="40" title="Instagram"/></a>
+<a href="https://www.threads.com/@yaleem62"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40" title="Threads"/></a>
+<a href="https://github.com/Yaleem62"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/></a>
 
 ---
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaleem62&layout=compact&theme=radical)](https://github.com/Yaleem62)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaleem62&show_icons=true&theme=radical)](https://github.com/Yaleem62)
 
 ---
 
