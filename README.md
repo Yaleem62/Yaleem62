@@ -1,6 +1,6 @@
-# 🚀 Developer Portfolio
+<!--## 🚀 Developer Portfolio
 
-![Developer Banner](https://images.unsplash.com/photo-1581091012184-4f36d6c7c83f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VlfHx8fHx8fHwxNjk0NzA4NTQ4&ixlib=rb-4.0.3&q=80&w=1080)
+ ![Developer Banner](https://images.unsplash.com/photo-1581091012184-4f36d6c7c83f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VlfHx8fHx8fHwxNjk0NzA4NTQ4&ixlib=rb-4.0.3&q=80&w=1080) -->
 
 ---
 
@@ -16,7 +16,7 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/></code>
 
 ### Tools & Platforms
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/></code>
@@ -35,9 +35,10 @@
 ---
 
 ## 📫 Connect with Me
-<a href="https://www.instagram.com/yaleem62/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="40" title="Instagram"/></a>
-<a href="https://www.threads.com/@yaleem62"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40" title="Threads"/></a>
-<a href="https://github.com/Yaleem62"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/></a>
+<code><a href="https://www.instagram.com/yaleem62/" style="padding: 100"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" title="Instagram"/></a></code>
+<code><a href="https://www.threads.com/@yaleem62"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40" title="Threads"/></a></code>
+<code><a href="https://github.com/Yaleem62"><img src="https://raw.githubusercontent.com/just-Muzz/just-Muzz/master/images/github.jpg" width="40" title="GitHub"/></a></code>
+
 
 ---
 
